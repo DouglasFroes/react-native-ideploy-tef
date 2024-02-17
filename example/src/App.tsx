@@ -1,14 +1,14 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text } from 'react-native';
-import { multiply } from 'react-native-ideploy-tef';
+// import { multiply } from 'react-native-ideploy-tef';
 
-const result = multiply(3, 7);
+// const result = multiply(3, 7);
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Result: {result}</Text>
+      <Text>Result: 2</Text>
     </View>
   );
 }
