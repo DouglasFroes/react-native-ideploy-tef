@@ -1,6 +1,6 @@
 {
   "name": "react-native-ideploy-tef-elgin",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "React Native module for Elgin iDeploy TEF",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
