@@ -105,6 +105,7 @@ dependencies {
   implementation project(':elgin-destaxa')
   implementation project(':elgin-payments')
   implementation project(':elgin-ppcomp')
+   implementation project(':elgin-printer')
 
   implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
   // For < 0.71, this will be from the local maven repo

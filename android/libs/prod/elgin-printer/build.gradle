@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('e1-V02.23.07-release.aar'))

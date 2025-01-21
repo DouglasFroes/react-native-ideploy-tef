@@ -1,2 +1,2 @@
 configurations.maybeCreate("default")
-artifacts.add("default", file('DestaxaSDK-release-v1.4.2.142000.aar'))
+artifacts.add("default", file('SDK-release-v1.5.0.150001.aar'))
